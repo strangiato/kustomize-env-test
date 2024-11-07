@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: test
 data:
-  test: '${SUB_DOMAIN}'
+  test: ${SUB_DOMAIN}
